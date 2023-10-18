@@ -18,7 +18,7 @@ This script calculates the negative acceleration of a vehicle using the kinemati
 
 - [Khan Academy - Physics: Kinematic Formulas](https://www.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas/a/what-are-the-kinematic-formulas)
 
-## How to Use (for Linux)
+## How to Use
 
 ### Prerequisites
 
