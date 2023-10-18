@@ -18,7 +18,7 @@ This script calculates the negative acceleration of a vehicle using the kinemati
 
 - [Khan Academy - Physics: Kinematic Formulas](https://www.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas/a/what-are-the-kinematic-formulas)
 
-## How to Use
+## How to Use (for Linux)
 
 ### Prerequisites
 
@@ -36,7 +36,7 @@ This script calculates the negative acceleration of a vehicle using the kinemati
    3. Open the acceleration_calculator.py file and set the desired initial velocity, final velocity, and the range of distances you want to calculate acceleration for.
    4. Run the script: 
    ```sh
-   python acceleration_calculation.py
+   python3 acceleration_calculation.py
    ```
    5. The script will calculate the acceleration  
   
