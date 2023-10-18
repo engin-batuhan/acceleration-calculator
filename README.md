@@ -31,7 +31,7 @@ This script calculates the negative acceleration of a vehicle using the kinemati
    ```
    2. Navigate to the project directory:
    ```sh
-   cd acceleration-calculator
+   cd acceleration-calculator/acceleration-calculator
    ```
    3. Open the acceleration_calculator.py file and set the desired initial velocity, final velocity, and the range of distances you want to calculate acceleration for.
    4. Run the script: 
